@@ -2,21 +2,22 @@
 #EXTINF:0,LIGA 1 
 #EXTGRP:Deportes
 http://go-nextlevel.xyz:25461/Valentin/Valentin/256758
+#EXTINF:0,LIGA 1 MAX Marzo
+#EXTGRP:Deportes
+http://mastertv.pro:8080/angela/angela/186682
 #EXTINF:0,LIGA 1 MAX
 #EXTGRP:Deportes
 http://dnsbr.tk:80/Valdemirjsjsj/64910134949/548979
 #EXTINF:0,LIGA 1 MAX OPC 2
 #EXTGRP:Deportes
 http://go-nextlevel.xyz:25461/Valentin/Valentin/256759
-#EXTINF:0,LIGA 1 MAX OPC 3
-#EXTGRP:Deportes
-http://odenfull.co:2086/iguanita669ko66rtv/tSXx44KbXh9b/279387
 #EXTINF:0,GOL PERU HD
 #EXTGRP:Deportes
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1152848
-#EXTINF:0,LIGA 1 MAX 07-23
-#EXTGRP:Deportes
-http://odenfull.co:2086/pikit99087dfr/dvnj32a6ZUvL/215287
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru FHD (PE)" tvg-logo="https://img.tvcl.xyz/peru/golperu.png" group-title="Peru",Gol Peru FHD (PE)
+http://hidra.live:80/aqqtamco/vk3e30K4Yi/304299
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru. SD (PE)" tvg-logo="https://img.tvcl.xyz/peru/golperu.png" group-title="Peru",Gol Peru. SD (PE)
+http://hidra.live:80/aqqtamco/vk3e30K4Yi/304300
 #EXTINF:0,Movistar Deportes HD
 #EXTGRP:Deportes
 http://moontools.me:8080/ChrisARCD/TnnBCC6En8/1113093
